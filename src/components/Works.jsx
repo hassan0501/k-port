@@ -1,5 +1,5 @@
-import React from "react";
-import {Tilt} from "react-tilt";
+/*import React from "react";
+//import {Tilt} from "react-tilt";
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
@@ -97,4 +97,12 @@ const Works = () => {
   );
 };
 
-export default SectionWrapper(Works, "");
+export default SectionWrapper(Works, "");*/
+
+const Work = () => {
+  return (
+    <div>Work</div>
+  )
+}
+
+export default Work

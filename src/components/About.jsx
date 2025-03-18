@@ -1,4 +1,4 @@
-import React from 'react'
+/*import React from 'react'
 
 import { motion } from 'framer-motion'
 import { styles } from '../styles'
@@ -53,5 +53,13 @@ const About = () => {
   )
 }
 
-export default SectionWrapper(About, 'about')
+export default SectionWrapper(About, 'about')*/
 
+const About = () =>{
+  return(
+    <div>yi</div>
+  )
+}
+
+export default About
+ 
